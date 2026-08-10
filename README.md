@@ -94,17 +94,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kuki-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="175"
-    alt="Hiteshi's GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kuki-09&layout=compact&theme=tokyonight&hide_border=true"
-    height="175"
-    alt="Top Languages"
-  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api?username=Kuki-09&show_icons=true&theme=tokyonight&hide_border=true"
+ height="175"
+ alt="Hiteshi's GitHub Stats"
+/>
+
+  
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuki-09&layout=compact&theme=tokyonight&hide_border=true"
+ height="175"
+ alt="Top Languages"
+/>
+
 </p>
 
 <br/>
