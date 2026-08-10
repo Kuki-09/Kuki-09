@@ -91,28 +91,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
- src="https://github-readme-stats.vercel.app/api?username=Kuki-09&show_icons=true&theme=tokyonight&hide_border=true"
- height="175"
- alt="Hiteshi's GitHub Stats"
-/>
-
-  
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuki-09&layout=compact&theme=tokyonight&hide_border=true"
- height="175"
- alt="Top Languages"
-/>
-
-</p>
-
-<br/>
-
 <!-- Bottom wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=80&section=footer&fontSize=0" width="100%"/>
