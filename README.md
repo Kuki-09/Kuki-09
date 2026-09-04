@@ -8,8 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=80&section=header&fontSize=0" width="100%"/>
 </p>
 
-<br/>
-
 ## 🌐 Connect With Me
 
 <!-- Contact badges -->
