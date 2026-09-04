@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Hiteshi%20Kukreja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-<a href="https://drive.google.com/file/d/1fTd4fmLsj7uTqNPda__ujiGmKj_JEbcd/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1vDSqeEs6cVu6p5NE6oSclfgvw4NHnTNk/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View%20Here-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 </p>
