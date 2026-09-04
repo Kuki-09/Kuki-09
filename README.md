@@ -10,6 +10,8 @@
 
 <br/>
 
+## 🌐 Connect With Me
+
 <!-- Contact badges -->
 <p align="center">
   <a href="mailto:hiteshi724@gmail.com">
@@ -27,22 +29,6 @@
 
 <br/>
 
----
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:hiteshi724@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hiteshi724%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/hiteshi-kukreja">
-    <img src="https://img.shields.io/badge/LinkedIn-Hiteshi%20Kukreja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Hiteshi%20Kukreja-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 ---
 
 ## 🛠️ Languages & Tools
