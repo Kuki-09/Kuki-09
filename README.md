@@ -103,7 +103,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
+  <img src="https://komarev.com/ghpvc/?username=Kuki-09&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuki-09&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
