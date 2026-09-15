@@ -116,14 +116,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kuki-09&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</p>
-
----
-
 <!-- Bottom wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=80&section=footer&fontSize=0" width="100%"/>
