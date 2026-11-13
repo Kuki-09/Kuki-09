@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header&text=Hi,%20I'm%20Hiteshi%20Kukreja!&fontSize=30&fontColor=ffffff&fontAlignY=45" width="100%"/>
 </p>
 
-<!-- Sparkle divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=80&section=header&fontSize=0" width="100%"/>
-</p>
 
 ## 👩‍💻 About Me
 
