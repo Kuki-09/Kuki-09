@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&height=75&lines=Hi,+I%27m+Hiteshi+Kukreja!;Passionate+about+AI+%26+Data+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header&text=Hi,%20I'm%20Hiteshi%20Kukreja!&fontSize=30&fontColor=ffffff&fontAlignY=45" width="100%"/>
 </p>
 
 <!-- Sparkle divider -->
@@ -8,6 +8,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=80&section=header&fontSize=0" width="100%"/>
 </p>
 
+## 👩‍💻 About Me
+
+- 🎓 Computer Engineering graduate with **8.78 CGPA** from Bharati Vidyapeeth's College of Engineering for Women, Pune.
+- 💻 Built projects using **Python, AI/ML, and Generative AI**, including RAG-based applications and LLM-powered solutions.
+- 🌱 **Open-source contributor** passionate about learning, building, and contributing to the developer community.
+- 🏅 **Microsoft Azure AI Fundamentals (AI-900) Certified.**
+  
 ## 🌐 Connect With Me
 
 <!-- Contact badges -->
@@ -27,20 +34,14 @@
 
 <br/>
 
----
-
 ## 💻 Programming Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
 ## 🤖 AI/ML & Generative AI
-
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -54,10 +55,7 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
-
 ## 🗄️ Databases
-
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -65,10 +63,7 @@
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
 </p>
 
----
-
 ## ☁️ Cloud & DevOps
-
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -77,10 +72,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
----
-
 ## 🛠️ Developer Tools & Platforms
-
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -89,32 +81,16 @@
   <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge"/>
 </p>
 
----
-
 ## 📊 Data & Analytics
-
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
----
-
-## 👀 Profile Views
-
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kuki-09&style=for-the-badge&color=blueviolet"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kuki-09&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kuki-09&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <!-- Bottom wave -->
 <p align="center">
